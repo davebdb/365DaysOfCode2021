@@ -5,7 +5,7 @@ Day:  Accomplishment
 001:  Create the GitHub repo
 002:  Create HTML for JS password authentication project
 003:  Move over uniqueWifi.py script, touch up, and sanitize for public
-004:  
+004:  Move over tailmail.py and send_email.py scripts, touch up, and sanitize for public
 005:  
 006:  
 007:  
